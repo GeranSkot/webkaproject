@@ -59,15 +59,19 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.jsOptions" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.interestingFunctions.js">
+  <component name="RunManager" selected="Node.js.stringsAndNumbers.js">
     <configuration name="interestingFunctions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/interestingFunctions.js" working-dir="$PROJECT_DIR$/JS">
       <method v="2" />
     </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/script.js" working-dir="$PROJECT_DIR$/JS">
       <method v="2" />
     </configuration>
+    <configuration name="stringsAndNumbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/stringsAndNumbers.js" working-dir="$PROJECT_DIR$/JS">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.stringsAndNumbers.js" />
         <item itemvalue="Node.js.interestingFunctions.js" />
         <item itemvalue="Node.js.script.js" />
       </list>
