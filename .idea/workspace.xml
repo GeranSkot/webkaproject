@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4680dac9-efde-4f64-8c6d-728629251a70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/Practise 3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/callBackFuntions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/objectDestruction.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +60,14 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.jsOptions" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.stringsAndNumbers.js">
+  <component name="RunManager" selected="Node.js.objectDestruction.js">
+    <configuration name="callBackFuntions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/callBackFuntions.js" working-dir="$PROJECT_DIR$/JS">
+      <method v="2" />
+    </configuration>
     <configuration name="interestingFunctions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/interestingFunctions.js" working-dir="$PROJECT_DIR$/JS">
+      <method v="2" />
+    </configuration>
+    <configuration name="objectDestruction.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/objectDestruction.js" working-dir="$PROJECT_DIR$/JS">
       <method v="2" />
     </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/script.js" working-dir="$PROJECT_DIR$/JS">
@@ -72,6 +78,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.objectDestruction.js" />
+        <item itemvalue="Node.js.callBackFuntions.js" />
         <item itemvalue="Node.js.stringsAndNumbers.js" />
         <item itemvalue="Node.js.interestingFunctions.js" />
         <item itemvalue="Node.js.script.js" />
@@ -103,7 +111,8 @@
       <workItem from="1607616166926" duration="2972000" />
       <workItem from="1607758982268" duration="610000" />
       <workItem from="1607964736003" duration="5486000" />
-      <workItem from="1608127447138" duration="2028000" />
+      <workItem from="1608127447138" duration="3179000" />
+      <workItem from="1608218546826" duration="2045000" />
     </task>
     <servers />
   </component>
@@ -131,22 +140,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="222" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607359971748" />
-    <state width="721" height="204" key="GridCell.Tab.0.bottom" timestamp="1607970230658">
+    <state width="721" height="204" key="GridCell.Tab.0.bottom" timestamp="1608223174077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="721" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607970230658" />
-    <state width="721" height="204" key="GridCell.Tab.0.center" timestamp="1607970230658">
+    <state width="721" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608223174077" />
+    <state width="721" height="204" key="GridCell.Tab.0.center" timestamp="1608223174077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="721" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607970230658" />
-    <state width="721" height="204" key="GridCell.Tab.0.left" timestamp="1607970230658">
+    <state width="721" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608223174077" />
+    <state width="721" height="204" key="GridCell.Tab.0.left" timestamp="1608223174077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="721" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607970230658" />
-    <state width="721" height="204" key="GridCell.Tab.0.right" timestamp="1607970230658">
+    <state width="721" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608223174077" />
+    <state width="721" height="204" key="GridCell.Tab.0.right" timestamp="1608223174077">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="721" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607970230658" />
+    <state width="721" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608223174077" />
     <state width="722" height="262" key="GridCell.Tab.1.bottom" timestamp="1607365682393">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
